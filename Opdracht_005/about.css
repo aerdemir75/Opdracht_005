@@ -1,0 +1,47 @@
+body {
+    background-image: url(bugatti.jpg);
+    background-position: center center;
+    background-size: 125% 250%;
+}
+a{
+    text-decoration: none;
+    color: rgb(184, 0, 0);
+}
+a:hover{
+    color:rgb(63, 172, 0);
+}
+nav {
+    border: 3px solid gold;
+    border-style: groove;
+    width: 150px;
+    padding: 2px;
+    margin: 10px;
+    border-radius: 10px;
+    word-spacing: 10px;
+}
+header {
+    color: red;
+    text-align: center;
+    font-size: 16px;
+    font-family: monospace;
+    border: 15px solid;
+    border-style: ridge;
+    border-color: black white green red;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+footer {
+    color: brown;
+    font-size: 14px;
+}
+.gold-border {
+    border: 5px solid gold;
+    border-style: ridge;
+    border-radius: 15px;
+    width: 150px;
+    margin-top: 10px;
+}
+.copy {
+    color: lawngreen;
+}
